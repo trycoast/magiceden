@@ -1,0 +1,1 @@
+A simple https://magiceden.io API wrapper.
